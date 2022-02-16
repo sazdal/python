@@ -1,0 +1,3 @@
+uniquewords=[]
+
+def findunique(word)
